@@ -1,0 +1,7 @@
+*
+!.gitignore
+!mod_helloword.c
+!mod_helloword.h
+!Makefile
+!LICENSE
+!README.md
